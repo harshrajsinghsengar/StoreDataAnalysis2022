@@ -5,29 +5,32 @@ Analysing a store data to drive insights using MS Excel
 
 Sample questions that can be answered after the analysis.
 
-1. Compare the sales and orders using single chart.
-2. Which month got the highest sales and orders.
-3. Who purchased more - men or women in 2022?
-4. What are different order status in 2022?
-5. List top 10 states contributing to the sales.
-6. Relation between age and gender 
-Analysing a store data to drive insights using MS Excel
+* Compare the sales and orders using single chart.
+* Which month got the highest sales and orders.
+* Who purchased more - men or women in 2022?
+* What are different order status in 2022?
+* List top 10 states contributing to the sales.
+* Relation between age and gender based on number of orders.
+* Which channel is contributing to maximm sales?
+* Highest selling category?
 
-Sample questions that can be answered after the analysis.
+Steps involved:
 
-1. Compare the sales and orders using single chart.
-2. Which month got the highest sales and orders.
-3. Who purchased more - men or women in 2022?
-4. What are different order status in 2022?
-5. List top 10 states contributing to the sales.
-6. Relation between age and gender 
-Analysing a store data to drive insights using MS Excel
+* Data Gathering
+* Data Cleaning
+* Data Processing
+* Data Analysis
+* Creating Interactive Dashboard
+* Driving Insights
+* Conclusion
 
-Sample questions that can be answered after the analysis.
+Insights from the dataset:
 
-1. Compare the sales and orders using single chart.
-2. Which month got the highest sales and orders.
-3. Who purchased more - men or women in 2022?
-4. What are different order status in 2022?
-5. List top 10 states contributing to the sales.
-6. Relation between age and gender 
+* Women are more likely to buy compared to men (~65%)
+* Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%).
+* Adult age group is contributing maximum (~50%).
+* Amazon, Flipkart and Myntra are the maximum contributing channels (~80%).
+
+Conclusion:
+
+Target women customers of adult age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing them advertisements and giving them offers/coupons on Amazon, Flipkart and Myntra.
