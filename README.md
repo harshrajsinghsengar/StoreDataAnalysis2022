@@ -1,5 +1,4 @@
 # StoreDataAnalysis2022
-Analysing a store data to drive insights using MS Excel
 
 Analysing a store data to drive insights using MS Excel
 
